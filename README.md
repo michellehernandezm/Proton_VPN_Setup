@@ -83,12 +83,14 @@ The location for your Virtual Machine should say Paris, France.  Take note of th
  
  
  In your regular browser (not VM browser) search the web for https://protonvpn.com/ and click on "Create a free account" 
-
+</p>
+<br />
  
 <img src="https://i.imgur.com/XnQFxbS.png" height="80%" width="80%" alt="get free account"/>
  
   You will then be directed to a new page with pricing options, be sure to scroll down and click "Get VPN Free"
- 
+ </p>
+<br />
  <img src="https://i.imgur.com/T2Sdz1j.png" height="80%" width="80%" alt="create user"/>
 
   Proceed to create your personal account.
@@ -96,7 +98,7 @@ The location for your Virtual Machine should say Paris, France.  Take note of th
 <br />
 
 <p> Step 6 : Download Proton VPN 
-<img src="https://i.imgur.com/XVa490G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hTC0mJk.png" height="80%" width="80%" alt="Download proton vpn"/>
 </p>
 <p>
 Go back to VM and log into your newly created Proton VPN account. From your dashboard, locate the "downloads" tab from the left hand side of the page. Proceed to download Proton VPN for Windows and follow instructions to complete installation.
@@ -104,27 +106,51 @@ Go back to VM and log into your newly created Proton VPN account. From your dash
 <br />
 
 <p> Step 7 : Connect to Japan Virtual Private Network
-<img src="https://i.imgur.com/XVa490G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/HxFdceZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ Open your new Proton VPN app to see this screen. If you look at the IP Address, it should match the IP address from Step 4.
+ </p>
+<br />
+ 
+ <img src="https://i.imgur.com/GTXnVxS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Locate "Japan" then click the arrow to expand the menu and "Connect"
+
+ </p>
+<br />
+ 
+ 
+ <img src="https://i.imgur.com/l87Tpj4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+As you connect to the Japan VPN your remote desktop connection may freeze. Reload remote desktop and see that you are now connected to the Japan server.
 </p>
 <br />
 
-<p> Step 8 : Browse through websites and see changes
-<img src="https://i.imgur.com/XVa490G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> Step 8 : Open up (https://whatismyipaddress.com/) again and view changes
+<img src="https://i.imgur.com/jglmi2J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Your Virtual Machine has a new IP address located in Japan!
 </p>
 <br />
 
-<p> Step 9 : Delete Virtual Machine
+<p> Step 9 : Browse through websites
+ 
+ 
+<img src="https://i.imgur.com/voXnfNz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DdruEyP.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+<p>
+Browse through websites like google.com, netflix.com, or starbucks.com. Enjoy your exploring!
+</p>
+<br />
+
+
+<p> Step 10 : Delete Virtual Machine
  
  
 <img src="https://i.imgur.com/XVa490G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Its now time to delete your resources on Azure. Be sure to delete the "VPNPractice" virtual machine and the resource group. Finally, log off of Remote Desktop and you're done!
 </p>
 <br />
