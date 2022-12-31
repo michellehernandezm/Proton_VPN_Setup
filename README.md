@@ -81,13 +81,17 @@ The location for your Virtual Machine should say Paris, France.  Take note of th
 <p> Step 5 : Create an account with Proton VPN. 
 <img src="https://i.imgur.com/0cqZPPT.png" height="80%" width="80%" alt="create"/>
  
+ 
+ In your regular browser (not VM browser) search the web for https://protonvpn.com/ and click on "Create a free account" 
+
+ 
 <img src="https://i.imgur.com/XnQFxbS.png" height="80%" width="80%" alt="get free account"/>
+ 
+  You will then be directed to a new page with pricing options, be sure to scroll down and click "Get VPN Free"
  
  <img src="https://i.imgur.com/T2Sdz1j.png" height="80%" width="80%" alt="create user"/>
 
-</p>
-<p>
-In your regular browser (not VM browser) search the web for https://protonvpn.com/ and click on "Create a free account" you will be directed to create an account. 
+  Proceed to create your personal account.
 </p>
 <br />
 
