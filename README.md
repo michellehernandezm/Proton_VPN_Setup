@@ -56,13 +56,13 @@ In your Azure portal, "create" a new Virtual Machine and fill in with the follow
 <br />
 
 <p> Step 3 : Connect to VM through Remote Desktop
-<img src="https://i.imgur.com/4X445i8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JHkENa8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
  Once VM is created copy the "Public IP Address"
 
  
 
-<img src="https://i.imgur.com/vhO3b4K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vhO3b4K.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 <p>
