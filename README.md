@@ -36,7 +36,20 @@ This tutorial outlines the installation of Proton VPN inside a virtual machine. 
 <p> Step 2 : Create VM Machine in Azure.
  <img src="https://i.imgur.com/65vRsY7.png" height="80%" width="80%" alt="Proton_VPN_Setup"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In your Azure portal, "create" a new Virtual Machine and fill in with the following:
+ 
+ VM Name: VPNPractice
+ 
+ Region: Europe France Central
+ 
+ Image: Windows 10
+ 
+ Size: 2vcpus
+ 
+ Username: labuser
+ 
+ Password: (create something you will remember)
+ 
 </p>
 <br />
 
