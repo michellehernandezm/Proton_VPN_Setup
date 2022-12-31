@@ -50,6 +50,8 @@ In your Azure portal, "create" a new Virtual Machine and fill in with the follow
  
  Password: (create something you will remember)
  
+ Once all information is filled click "Review + Create"
+ 
 </p>
 <br />
 
@@ -64,7 +66,7 @@ In your Azure portal, "create" a new Virtual Machine and fill in with the follow
 
 
 <p>
-Open up "Remote Desktop" in a Windows computer or "Microsoft Remote Desktop" in Mac. Paste the Public IP address you copied and "Add" the PC. Once added, continue with the username and password you created for the VM.
+Open up "Remote Desktop" in a Windows computer or "Microsoft Remote Desktop" in a Mac. Paste the Public IP address and "Add" the PC. Once added, continue with the username and password you created back in Step 2.
 </p>
 <br />
 
