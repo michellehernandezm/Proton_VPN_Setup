@@ -8,7 +8,7 @@ This tutorial outlines the installation of Proton VPN inside a virtual machine. 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [How To Install Proton VPN with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -25,7 +25,7 @@ This tutorial outlines the installation of Proton VPN inside a virtual machine. 
 <p> Step 1 : On your desktop, go to (https://whatismyipaddress.com/) and locate your IPv4 adress and location.
 <img src="https://i.imgur.com/37yHrFL.png" height="80%" width="80%" alt="Proton_VPN_Setup"/>
 
- Once you log into the website, it will the current location of your device and the IPv4 adress. Take note of these details.
+ Once you log into the website, it will have the current location of your device and the IPv4 adress. Take note of these details.
 </p>
 
 
