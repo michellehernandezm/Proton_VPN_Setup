@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Grb44gD.png" alt="ProtonVPN logo"/>
+<img src="https://i.imgur.com/Grb44gD.png" height="70%" width="70%" alt="ProtonVPN logo"/>
 </p>
 
 <h1>Proton VPN - Setup and Usage</h1>
@@ -148,9 +148,11 @@ Browse through websites like google.com, netflix.com, or starbucks.com. Enjoy yo
 <p> Step 10 : Delete Virtual Machine
  
  
-<img src="https://i.imgur.com/XVa490G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DPBJBdT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T2VpIPn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Its now time to delete your resources on Azure. Be sure to delete the "VPNPractice" virtual machine and the resource group. Finally, log off of Remote Desktop and you're done!
+It's now time to delete your resources on Azure. Be sure to delete the "VPNPractice" virtual machine and the resource group. Finally, log off of Remote Desktop and you're done!
 </p>
 <br />
