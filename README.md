@@ -79,10 +79,15 @@ The location for your Virtual Machine should say Paris, France.  Take note of th
 <br />
 
 <p> Step 5 : Create an account with Proton VPN. 
-<img src="https://i.imgur.com/XVa490G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0cqZPPT.png" height="80%" width="80%" alt="create"/>
+ 
+<img src="https://i.imgur.com/XnQFxbS.png" height="80%" width="80%" alt="get free account"/>
+ 
+ <img src="https://i.imgur.com/T2Sdz1j.png" height="80%" width="80%" alt="create user"/>
+
 </p>
 <p>
-In your regular browser (not VM browser) search the web for https://protonvpn.com/ and click on "Create a free account" you will be directed to creating an account with your personal information. 
+In your regular browser (not VM browser) search the web for https://protonvpn.com/ and click on "Create a free account" you will be directed to create an account. 
 </p>
 <br />
 
