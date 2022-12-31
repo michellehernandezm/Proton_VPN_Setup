@@ -56,7 +56,7 @@ In your Azure portal, "create" a new Virtual Machine and fill in with the follow
 <br />
 
 <p> Step 3 : Connect to VM through Remote Desktop
-<img src="https://i.imgur.com/JHkENa8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JHkENa8.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
  Once VM is created copy the "Public IP Address"
 
@@ -71,6 +71,8 @@ Open up "Remote Desktop" in a Windows computer or "Microsoft Remote Desktop" in 
 <br />
 
 <p> Step 4 : Inside the VM login to (https://whatismyipaddress.com/) again and locate your VM's IPv4 address and location. 
+</p>
+<br />
 <img src="https://i.imgur.com/XVa490G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
