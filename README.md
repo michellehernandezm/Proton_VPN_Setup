@@ -42,9 +42,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p> Step 3 : Connect to VM through Remote Desktop
 <img src="https://i.imgur.com/4X445i8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+ Once VM is created copy the "Public IP Address"
+
+ 
+
+<img src="https://i.imgur.com/vhO3b4K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open up "Remote Desktop" in a Windows computer or "Microsoft Remote Desktop" in Mac. Paste the Public IP address you copied and "Add" the PC. Once added, continue with the username and password you created for the VM.
 </p>
 <br />
 
