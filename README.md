@@ -3,7 +3,7 @@
 </p>
 
 <h1>Proton VPN - Setup and Usage</h1>
-This tutorial outlines the installation of Proton VPN inside a virtual machine. We will look at IPv4 IP addresses in different locations.<br />
+This tutorial outlines the process of retrieving and observing IP addresses of computers in different locations. We will observe our own desktop IP address, then the IP addresses within a Azure virtual machine. We will use Proton VPN to change our IP address and observe the changes. <br />
 
 
 <h2>Video Demonstration</h2>
@@ -101,19 +101,26 @@ The location for your Virtual Machine should say Paris, France.  Take note of th
 <img src="https://i.imgur.com/hTC0mJk.png" height="80%" width="80%" alt="Download proton vpn"/>
 </p>
 <p>
-Go back to VM and log into your newly created Proton VPN account. From your dashboard, locate the "downloads" tab from the left hand side of the page. Proceed to download Proton VPN for Windows and follow instructions to complete installation.
+Go back to VM and log into your newly created Proton VPN account. From your dashboard, locate the "downloads" tab from the left hand side of the page. 
+</p>
+<br />
+<img src="https://i.imgur.com/fS1f0w1.png" height="80%" width="80%" alt="Download proton vpn"/>
+</p>
+<p>
+ 
+ Proceed to download Proton VPN for Windows and follow instructions to complete installation.
 </p>
 <br />
 
 <p> Step 7 : Connect to Japan Virtual Private Network
-<img src="https://i.imgur.com/HxFdceZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/88VzKS8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- Open your new Proton VPN app to see this screen. If you look at the IP Address, it should match the IP address from Step 4.
+ Open your new Proton VPN app to see this screen. Observing the IP Address, it should match the IP address from Step 4.
  </p>
 <br />
  
- <img src="https://i.imgur.com/GTXnVxS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- Locate "Japan" then click the arrow to expand the menu and "Connect"
+ <img src="https://i.imgur.com/yIuPcQV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Hover mouse over "Japan" and click "Connect"
 
  </p>
 <br />
