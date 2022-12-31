@@ -110,7 +110,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p> Step 9 : Delete VM
+<p> Step 9 : Delete Virtual Machine
+ 
+ 
 <img src="https://i.imgur.com/XVa490G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
