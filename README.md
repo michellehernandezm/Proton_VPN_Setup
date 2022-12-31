@@ -25,7 +25,7 @@ This tutorial outlines the installation of Proton VPN inside a virtual machine. 
 <p> Step 1 : On your desktop, go to (https://whatismyipaddress.com/) and locate your IPv4 adress and location.
 <img src="https://i.imgur.com/37yHrFL.png" height="80%" width="80%" alt="Proton_VPN_Setup"/>
 
- Once you log into the website, it will have the current location of your device and the IPv4 adress. Take note of these details.
+ Once you log into the website, it will have the current location of your device and the IPv4 address. Take note of these details.
 </p>
 
 
@@ -70,7 +70,7 @@ Open up "Remote Desktop" in a Windows computer or "Microsoft Remote Desktop" in 
 </p>
 <br />
 
-<p>
+<p> Step 4 : Inside the VM login to (https://whatismyipaddress.com/) again and locate your VM's IPv4 address and location. 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
