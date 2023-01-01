@@ -25,7 +25,7 @@ This tutorial outlines the process of retrieving and observing IP addresses of c
 <p> Step 1 : On your desktop, go to (https://whatismyipaddress.com/) and locate your IPv4 adress and location.
 <img src="https://i.imgur.com/37yHrFL.png" height="80%" width="80%" alt="Proton_VPN_Setup"/>
 
- Once you log into the website, it will have the current location of your device and the IPv4 address. Take note of these details.
+ Once you open the website, it will have the current location of your device and the IPv4 address. Take note of these details.
 </p>
 <br />
 
