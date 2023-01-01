@@ -30,7 +30,7 @@ This tutorial outlines the process of retrieving and observing IP addresses of c
 <br />
 
 
-<p> Step 2 : Create VM Machine in Azure.
+<p> Step 2 : Create Virtual Machine (VM) in Azure.
  <img src="https://i.imgur.com/65vRsY7.png" height="80%" width="80%" alt="Proton_VPN_Setup"/>
 
 In your Azure portal, "create" a new Virtual Machine and fill in with the following:
@@ -52,7 +52,7 @@ In your Azure portal, "create" a new Virtual Machine and fill in with the follow
 </p>
 <br />
 
-<p> Step 3 : Connect to VM through Remote Desktop
+<p> Step 3 : Connect to VM through Remote Desktop.
 <img src="https://i.imgur.com/JHkENa8.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 
  Once VM is created copy the "Public IP Address"
@@ -67,7 +67,7 @@ Open up "Remote Desktop" in a Windows computer or "Microsoft Remote Desktop" in 
 </p>
 <br />
 
-<p> Step 4 : Inside the VM login to (https://whatismyipaddress.com/) again and locate your VM's IPv4 address and location. 
+<p> Step 4 : Inside the VM open (https://whatismyipaddress.com/) again and locate your VM's IPv4 address and location. 
 <img src="https://i.imgur.com/XVa490G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -94,22 +94,22 @@ The location for your Virtual Machine should say Paris, France.  Take note of th
 </p>
 <br />
 
-<p> Step 6 : Download Proton VPN 
+<p> Step 6 : Download Proton VPN. 
 <img src="https://i.imgur.com/hTC0mJk.png" height="80%" width="80%" alt="Download proton vpn"/>
 </p>
 <p>
-Go back to VM and log into your newly created Proton VPN account. From your dashboard, locate the "downloads" tab from the left hand side of the page. 
+Go back to VM and log into your newly created Proton VPN account. From your dashboard, locate the "downloads" tab from the left hand side of the page. Locate the Windows option and click "download"
 </p>
 <br />
 <img src="https://i.imgur.com/fS1f0w1.png" height="80%" width="80%" alt="Download proton vpn"/>
 </p>
 <p>
  
- Proceed to download Proton VPN for Windows and follow instructions to complete installation.
+ Click "Download Proton VPN" for Windows and follow instructions to complete installation.
 </p>
 <br />
 
-<p> Step 7 : Connect to Japan Virtual Private Network
+<p> Step 7 : Connect to Japan Virtual Private Network.
 <img src="https://i.imgur.com/88VzKS8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
  Open your new Proton VPN app to see this screen. Observing the IP Address, it should match the IP address from Step 4.
@@ -128,7 +128,7 @@ As you connect to the Japan VPN your remote desktop connection may freeze. Reloa
 </p>
 <br />
 
-<p> Step 8 : Open up (https://whatismyipaddress.com/) again and view changes
+<p> Step 8 : Open up (https://whatismyipaddress.com/) to view changes.
 <img src="https://i.imgur.com/jglmi2J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -136,19 +136,19 @@ Your Virtual Machine has a new IP address located in Japan!
 </p>
 <br />
 
-<p> Step 9 : Browse through websites
+<p> Step 9 : Browse through websites.
  
 <img src="https://i.imgur.com/voXnfNz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DdruEyP.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
-Browse through websites like google.com, netflix.com, or starbucks.com. Enjoy your exploring!
+Search for websites like google.com, Netflix, or Starbucks. Enjoy your exploring!
 </p>
 <br />
 
 
-<p> Step 10 : Delete Virtual Machine
+<p> Step 10 : Delete Virtual Machine.
  
 <img src="https://i.imgur.com/DPBJBdT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/T2VpIPn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
