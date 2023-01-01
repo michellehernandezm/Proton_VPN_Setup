@@ -8,7 +8,7 @@ This tutorial outlines the process of retrieving and observing IP addresses of c
 
 <h2>Video Demonstration</h2>
 
-- ### [How To Install Proton VPN with Prerequisites](https://www.youtube.com)
+- ### [How To Install Proton VPN with Prerequisites](https://clipchamp.com/watch/owUcTrGNUxf)
 
 <h2>Environments and Technologies Used</h2>
 
